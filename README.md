@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/redboo/redboo.svg" />
+
 <!--
 **redboo/redboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
